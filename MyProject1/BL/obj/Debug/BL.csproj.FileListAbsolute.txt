@@ -1,0 +1,93 @@
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\BL.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\BL.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\DTO.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\DAL.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\EntityFramework.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\DTO.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\DAL.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\DAL.dll.config
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\EntityFramework.xml
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\obj\Debug\BL.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\obj\Debug\BL.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\MyProject\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\BL.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\BL.pdb
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\DTO.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\DTO.pdb
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\BL.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\BL.pdb
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\DTO.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\DTO.pdb
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\הפרויקט\17. פינקלשטיין ויהודה\MyProject1\BL\obj\Debug\BL.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\BL.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\BL.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\DAL.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\DTO.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\EntityFramework.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\DAL.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\DAL.dll.config
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\DTO.pdb
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\EntityFramework.xml
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\obj\Debug\BL.dll
+C:\Users\דסי\Desktop\מסלול\הפרוייקט שלנו\מעודכן מכסליו\MyProject1\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\BL.dll
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\BL.pdb
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\DTO.dll
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\DTO.pdb
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\בנקהזמן\MyProject1\BL\obj\Debug\BL.pdb
+E:\בנק הזמן\MyProject1\BL\bin\Debug\BL.dll
+E:\בנק הזמן\MyProject1\BL\bin\Debug\BL.pdb
+E:\בנק הזמן\MyProject1\BL\bin\Debug\DAL.dll
+E:\בנק הזמן\MyProject1\BL\bin\Debug\DTO.dll
+E:\בנק הזמן\MyProject1\BL\bin\Debug\EntityFramework.dll
+E:\בנק הזמן\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\בנק הזמן\MyProject1\BL\bin\Debug\DAL.pdb
+E:\בנק הזמן\MyProject1\BL\bin\Debug\DAL.dll.config
+E:\בנק הזמן\MyProject1\BL\bin\Debug\DTO.pdb
+E:\בנק הזמן\MyProject1\BL\bin\Debug\EntityFramework.xml
+E:\בנק הזמן\MyProject1\BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\בנק הזמן\MyProject1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\בנק הזמן\MyProject1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\בנק הזמן\MyProject1\BL\obj\Debug\BL.csproj.CopyComplete
+E:\בנק הזמן\MyProject1\BL\obj\Debug\BL.dll
+E:\בנק הזמן\MyProject1\BL\obj\Debug\BL.pdb
